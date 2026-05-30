@@ -1,5 +1,3 @@
 
 # todo
-
-- figure out how to print stuff instead of doing debug lines. 
-- figure out how to pin to a stable base because zig moves very fast i think. 
+- Figure out how to create the main package and print the line from the root package instead.

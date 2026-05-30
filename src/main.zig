@@ -7,6 +7,6 @@ const std = @import("std");
 const spacedout = @import("spacedout");
 
 pub fn main() !void {
-    std.debug.print("Hello, {s}!\n", .{"World"});
+    std.debug.print("message from the spacedout package root: {s}!\n", .{spacedout.message});
 }
 
