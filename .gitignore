@@ -1,0 +1,14 @@
+.DS_Store
+.env
+
+# Local editor/project notes
+.obsidian/
+
+# Build outputs
+zig/zig-cache/
+zig/zig-out/
+.zig-cache/
+zig-cache/
+
+# Misc local environments
+venv/

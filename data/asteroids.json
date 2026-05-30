@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ceres",
+    "name": "Ceres",
+    "spectral_type": "C",
+    "diameter_km": 939.4,
+    "estimated_resources": "water ice, clays, carbon compounds",
+    "difficulty": 2
+  },
+  {
+    "id": "psyche",
+    "name": "16 Psyche",
+    "spectral_type": "M",
+    "diameter_km": 226,
+    "estimated_resources": "nickel, iron, trace platinum group metals",
+    "difficulty": 5
+  },
+  {
+    "id": "vesta",
+    "name": "4 Vesta",
+    "spectral_type": "V",
+    "diameter_km": 525.4,
+    "estimated_resources": "basaltic rock, silicates, iron",
+    "difficulty": 4
+  },
+  {
+    "id": "bennu",
+    "name": "101955 Bennu",
+    "spectral_type": "B",
+    "diameter_km": 0.49,
+    "estimated_resources": "carbon compounds, hydrated minerals",
+    "difficulty": 3
+  },
+  {
+    "id": "ryugu",
+    "name": "162173 Ryugu",
+    "spectral_type": "C",
+    "diameter_km": 0.9,
+    "estimated_resources": "carbon compounds, hydrated minerals",
+    "difficulty": 3
+  },
+  {
+    "id": "eros",
+    "name": "433 Eros",
+    "spectral_type": "S",
+    "diameter_km": 16.8,
+    "estimated_resources": "silicates, nickel, iron",
+    "difficulty": 3
+  },
+  {
+    "id": "itokawa",
+    "name": "25143 Itokawa",
+    "spectral_type": "S",
+    "diameter_km": 0.33,
+    "estimated_resources": "silicates, olivine, pyroxene",
+    "difficulty": 2
+  },
+  {
+    "id": "kleopatra",
+    "name": "216 Kleopatra",
+    "spectral_type": "M",
+    "diameter_km": 122,
+    "estimated_resources": "nickel, iron",
+    "difficulty": 6
+  },
+  {
+    "id": "davida",
+    "name": "511 Davida",
+    "spectral_type": "C",
+    "diameter_km": 289,
+    "estimated_resources": "carbon compounds, hydrated minerals",
+    "difficulty": 5
+  }
+]
